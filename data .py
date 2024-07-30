@@ -1,0 +1,25 @@
+x="Hello world"
+x1=50
+X2=50.5
+x3=3j
+x4=True
+x5=None
+x6=["geekos","for","geeks"]
+x7=("geekos","for","geeks")
+x8=range(10)
+x9={"name":"seiam","age":19}
+x10={"geekos","for","geeks"}
+x11=frozenset({"geekos","for","geeks"})
+x12=b"geeks"
+x13=bytearray
+x14=memoryview(bytes(6))
+print(x,x1,X2,x3,x4,x5)
+print(x6)
+print(x7)
+print(x8)
+print(x9)
+print(x10)
+print(x11)
+print(x12)
+print(x13)
+print(x14)
